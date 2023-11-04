@@ -1,7 +1,7 @@
 
-![MasterHead](https://img.freepik.com/free-photo/programming-background-concept_23-2150170123.jpg?w=996&t=st=1699093636~exp=1699094236~hmac=5ab2de1a2dec2f18ba61818e7ab3c85bf8f702ea64d1ead94e4683d447d261f3)
+![MasterHead](https://www.worklife.news/wp-content/uploads/sites/6/2021/11/end-of-work-gif.gif)
 # 💫 About Me:
-🌱 I’m currently learning BS in Data Science and Applications<br>📫 How to reach me ashokpa712@gmail.com
+🌱 I’m currently learning BS in Data Science and Applications From IIT MADRAS<br>📫 How to reach me ashokpa712@gmail.com
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 ## 🌐 Socials:
