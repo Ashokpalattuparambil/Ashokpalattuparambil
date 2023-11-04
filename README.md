@@ -1,4 +1,4 @@
-[![MasterHead](https://images7.alphacoders.com/133/1337527.png)]
+![MasterHead](https://images7.alphacoders.com/133/1337527.png)
 <h1 align="center">Hi 👋, I'm Ashok P A</h1>
 <h3 align="center">Aspiring software Dev and Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://vectorified.com/image/vector-gif-5.gif">
